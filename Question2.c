@@ -1,3 +1,13 @@
+/* C program to calculate total average and percentage of five subjects 
+ 
+    Example Input 
+    Enter marks of five subjects: 95 76 85 90 89 
+    Output 
+ 
+    Total = 435 
+    Average = 87 
+    Percentage = 87.00 
+*/
 #include<stdio.h>
 int main(){
 	//Variable Declarating
