@@ -1,3 +1,6 @@
+/*
+   Write a C program to Swap two Numbers Without Using temporary variable
+*/
 #include<stdio.h>
 int main(){
 	//Variable Declarating
